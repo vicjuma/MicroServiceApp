@@ -41,9 +41,9 @@ The API requires:
 
 To get up and running: 
 
-**1.** Clone the https://github.com/vicjuma/react-nodejs-microservice
+**1.** Clone the https://github.com/vicjuma/MicroServiceApp.git
 ```
-https://github.com/vicjuma/react-nodejs-microservice/
+https://github.com/vicjuma/MicroServiceApp.git
 ```
 
 **2.**  ```cd``` into repo/server or repo/client. Use the same directory name(below) if you do not change it.
